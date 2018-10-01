@@ -24,6 +24,7 @@ p{
 font-size:0.8em;
 background-color:#3399cc;/*段階の文字の背景の色だけ色が変わる*/
 color:#333333;
+   text-align:center;
 }
 a{
 color:#df4839;
