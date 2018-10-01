@@ -10,6 +10,11 @@ font-weight:.900em;
 color:#3399cc;
    text-align:center;
 }
+#lead{
+    border-top: #6fbb9a 1px dotted;
+    text-align: center;
+}
+
 p{
 font-size:0.8em;
 background-color:#00ffff;/*段階の文字の背景の色だけ色が変わる*/
