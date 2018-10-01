@@ -15,6 +15,12 @@ color:#3399cc;
 ….
     text-align: center;
 }
+. greeting{
+    border-top: #00ffff 1px dotted;
+….
+    text-align: center;
+}
+
 
 p{
 font-size:0.8em;
